@@ -23,13 +23,22 @@ you have run the installation commands.
 use linters to check the errors in your html and style 
 
 
-
-
-
 ## Authors
 
-👤 **Author1**
+👤 **divine**
 
-- GitHub: https://github.com/divinecharlotte
--twitter: https://twitter.com/divaDuse
--LinkedIn:https://www.linkedin.com/in/charlotte-divine-dusenge-31b19017a/
+- GitHub: [@githubhandle]( https://github.com/divinecharlotte)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- have a nice time!
+
