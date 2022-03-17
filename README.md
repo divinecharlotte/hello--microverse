@@ -31,3 +31,5 @@ use linters to check the errors in your html and style
 👤 **Author1**
 
 - GitHub: https://github.com/divinecharlotte
+-twitter: https://twitter.com/divaDuse
+-LinkedIn:https://www.linkedin.com/in/charlotte-divine-dusenge-31b19017a/
